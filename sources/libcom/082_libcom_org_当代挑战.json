@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "文章中提到的当代挑战有哪些？"
+    },
+    {
+      "role": "assistant",
+      "content": "根据文章内容，主要挑战包括：技术变革对劳动关系的影响。这些挑战体现了当代革命面临的新情况。"
+    }
+  ],
+  "source": "libcom.org",
+  "category": "当代挑战"
+}

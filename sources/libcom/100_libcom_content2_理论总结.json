@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "请总结这篇文章的核心观点：libcom content2"
+    },
+    {
+      "role": "assistant",
+      "content": "proletarian revolution and the modern world\n\nThe contemporary world presents new challenges to proletarian revolution that were not foreseen in earlier Marxist analyses. Globalization has created complex interconnections between capital and labor, making traditional class struggle more nuanced. Technological advancement, particularly in information technology and artificial intelligence, is transforming the nature of work and economic relations.\n\nModern imperialism operates not just through direct colonial control, but through complex economic dependencies, cultural hegemony, and technological dominance. This has created new forms of exploitation and resistance. The proletariat's struggle must now address these multidimensional challenges while maintaining focus on the fundamental contradi..."
+    }
+  ],
+  "source": "libcom_content2",
+  "category": "理论总结"
+}

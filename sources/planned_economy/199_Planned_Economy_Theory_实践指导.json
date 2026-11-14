@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "文章对革命工作的指导价值体现在哪里？"
+    },
+    {
+      "role": "assistant",
+      "content": "从文章看，其对革命工作的指导价值在于：强调理论结合实际。为具体的革命实践提供了方法论指导。"
+    }
+  ],
+  "source": "Planned_Economy_Theory",
+  "category": "实践指导"
+}

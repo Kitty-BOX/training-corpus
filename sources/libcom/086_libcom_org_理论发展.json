@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "这篇文章对当代 proletarian revolution 有什么新的见解？"
+    },
+    {
+      "role": "assistant",
+      "content": "proletarian revolution and the modern world\n\nThe contemporary world presents new challenges to proletarian revolution that were not foreseen in earlier Marxist analyses. Globalization has created complex interconnections between capital and labor, making traditional class struggle more nuanced. Technological advancement, particularly in information technology and artificial intelligence, is transforming the nature of work and economic relations.\n\nModern imperialism operates not just through direct colonial control, but through complex economic dependencies, cultural hegemony, and technological dominance. This has created new forms of exploitation and resistance. The proletariat's struggle must now address these multidimensional challenges while maintaining focus on the fundamental contradictions of capitalism.\n\nKey aspects of modern proletarian revolution include:\n\n1. Digital revolution and the transformation of labor\n2. Globalized capital and national resistance\n3. Cultural struggle and ideological resistance\n4. Environmental crisis and socialist solutions\n5. Sustainable development as revolutionary practice\n\nThe revolution must embrace both traditional working-class struggles and new forms of resistance that emerge in the information age. The goal remains the same: the establishment of a classless, stateless society based on common ownership of the means of production and democratic control over economic life.\n\nThis analysis shows that while the fundamental principles of Marxist theory remain valid, their application must evolve with changing conditions to maintain relevance and effectiveness in contemporary struggles."
+    }
+  ],
+  "source": "libcom.org",
+  "category": "理论发展"
+}

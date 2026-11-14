@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "文章提出的主要挑战是什么？"
+    },
+    {
+      "role": "assistant",
+      "content": "根据文章内容，主要挑战包括：理论与现实的结合。这些挑战体现了当前理论与实践结合中的关键问题。"
+    }
+  ],
+  "source": "libcom.org",
+  "category": "核心挑战"
+}

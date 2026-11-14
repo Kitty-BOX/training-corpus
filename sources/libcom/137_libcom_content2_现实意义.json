@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "从这篇文章看，对现代革命有什么意义？"
+    },
+    {
+      "role": "assistant",
+      "content": "文章强调了libcom_content2在现代革命中的重要性。它为应对当代挑战提供了理论基础。"
+    }
+  ],
+  "source": "libcom_content2",
+  "category": "现实意义"
+}

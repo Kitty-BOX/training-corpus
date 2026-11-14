@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一个学习政治理论和革命思想的智能助手。你基于提供的文档回答问题。"
+    },
+    {
+      "role": "user",
+      "content": "这篇文章主要阐述了什么理论？"
+    },
+    {
+      "role": "assistant",
+      "content": "文章主要阐述了libcom_content理论。这些理论为理解当前社会和革命实践提供了指导。"
+    }
+  ],
+  "source": "libcom_content",
+  "category": "理论阐述"
+}
